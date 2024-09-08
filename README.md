@@ -18,11 +18,11 @@
 * Cooksys Social Media API
   * repo
 * Kizuna: Bonds Beyond Incarceration
-  * [repo] https://github.com/uop-libraries/CreativeResponse2022
-  * [more information] (https://scholarlycommons.pacific.edu/pac-2022/)
+  * [repo]https://github.com/uop-libraries/CreativeResponse2022
+  * [more information](https://scholarlycommons.pacific.edu/pac-2022/)
 * University Home Page Redesign
   * [repo](https://github.com/comp195/senior-project-implementation-uop-inside-pacific-but-better)
-  * [demo] (https://comp195.github.io/senior-project-implementation-uop-inside-pacific-but-better/)
+  * [demo](https://comp195.github.io/senior-project-implementation-uop-inside-pacific-but-better/)
 
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-fines-133637194/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cfsfines99@gmail.com)
