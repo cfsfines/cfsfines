@@ -1,8 +1,8 @@
 ## Hi! Welcome to my Github! I'm Chris.
 
 ### About me
-* Graduated from University of the Pacific - Masters in Computer Science
-* Student of Cook Systems Fast Track'd Full Stack Development Program
+* Graduate of University of the Pacific - BS & MS in Computer Science
+* Graduate of Cook Systems Fast Track'd Full Stack Development Program
 * Always learning new things!
 
 ### Stack
