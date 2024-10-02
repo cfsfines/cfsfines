@@ -15,6 +15,10 @@
 [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#) [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 
 ## Projects
+* Company Onboarding Website
+  * [repo](https://github.com/cfsfines/cooksys-company-onboarding)
+* Who's Who
+  * [repo](https://github.com/cfsfines/whos-who)
 * Cooksys Social Media API
   * [repo](https://github.com/cfsfines/social-media-api)
 * Kizuna: Bonds Beyond Incarceration
