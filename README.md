@@ -4,6 +4,7 @@
 * Graduate of University of the Pacific - BS & MS in Computer Science
 * Graduate of Cook Systems Fast Track'd Full Stack Development Program
 * Always learning new things!
+* [Portfolio](https://cfsfines.github.io/)
 
 ### Stack
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#) [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
